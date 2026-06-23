@@ -5,7 +5,7 @@ This is a complete implementation of the transformer architecture from the paper
 If you have ever used a transformer and wondered what is actually happening inside — this is that walkthrough. It is also useful as a revision reference if you already know the theory and just want to see clean code with explanations next to it.
 
 ---
-![Transformer image]!(images/image-4.png)
+![Transformer image](images/image-4.png)
 ---
 
 ## Workflow
